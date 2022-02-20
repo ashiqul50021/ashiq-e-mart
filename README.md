@@ -1,4 +1,4 @@
-# Getting Started with Ashiq Cat Foods shop
+# Getting Started with Ashiq e mart
 
 This project was created for Programming hero.. [see more-->](https://ashiq-cat-foods.web.app/).
 
