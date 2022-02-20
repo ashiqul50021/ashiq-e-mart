@@ -1,0 +1,15 @@
+nav{
+    background-color: #FFFFFF;
+    border: none;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    padding: 20px !important;
+}
+img{
+    height: 58px;
+}
+.nav-link{
+    color: #103178 !important;
+}
+.nav-link:hover{
+    color: #428345 !important;
+}

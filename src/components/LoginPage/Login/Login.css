@@ -1,0 +1,10 @@
+.bgimg{
+    /* background-image: url("/src/images/loginpagebg.png");
+    background-repeat: no-repeat;
+    background-size: auto; */
+    background-color: #FFFFFF;
+}
+
+form{
+    margin-top: 110px;
+}

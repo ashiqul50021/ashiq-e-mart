@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Raleway:wght@400;500;600;700&family=Redressed&display=swap');
+.banner-text{
+    /* color: white; */
+    /* font-family: 'Mochiy Pop P One', sans-serif; */
+    /* margin: 170px 130px 30px; */
+    margin: 120px 5px;
+
+}
+span{
+    font-family: 'Architects Daughter', cursive;
+    
+}
+.banner{
+    /* background-image: url("/src/images/bannerbackground.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+.button{
+    /* margin-left:128px; */
+    /* background-color: #FD8D27;
+    color: white;
+    border-radius: 12px;*/
+    padding: 15px;
+    border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+ 
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+.top-text-p{
+    font-weight: bold;
+    color: blueviolet;
+}
+.banner-h1{
+    font-family: 'Dancing Script', cursive;
+    color: #FD8D27;
+    font-weight: 700;
+    font-size: 50px;
+}
+.text-p{
+    font-family: 'Redressed', cursive;
+    font-size: 22px;
+}

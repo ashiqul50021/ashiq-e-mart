@@ -1,0 +1,92 @@
+[
+    {
+        "img":"https://i.ibb.co/6tBPBRK/petfood1.png",
+        "name":"Kitten Whiskas",
+        "price":"300",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/WHGG3Bh/petfood2.png",
+        "name":"Nulo medalseries",
+        "price":"200",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/DLD9RbW/petfood3.png",
+        "name":"Purina Cat chow",
+        "price":"350",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/bPS9qbq/petfood4.png",
+        "name":"Applaws",
+        "price":"200",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/7Y4RL18/petfood5.jpg",
+        "name":"Natures chicken ",
+        "price":"400",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/VTQKvGn/petfood6.png",
+        "name":"Meow Mix",
+        "price":"400",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/zPVz68g/petfood7.png",
+        "name":"drools well",
+        "price":"400",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/nb1xRJJ/petfood9.png",
+        "name":"Instinct",
+        "price":"400",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/MVss1PG/petfood8.png",
+        "name":"Purina Kit & Kaboodle",
+        "price":"260",
+        "description":"",
+        "rating": 5
+
+
+    },
+    {
+        "img":"https://i.ibb.co/tMR0bkC/petfood10.jpg",
+        "name":"9Lives ProteinPlus",
+        "price":"300",
+        "description":"",
+        "rating": 5
+
+
+    }
+]
